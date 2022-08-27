@@ -1,0 +1,16 @@
+Luke Laptop
+192.168.1.242
+Luke Desktop
+192.168.1.13
+Luke Work
+192.168.86.130
+HPedit
+192.168.1.216
+edit-PC
+192.168.1.213
+Moe's Wifi
+10.10.80.30
+Mom's House
+10.0.0.208
+Luke
+192.168.1.160
